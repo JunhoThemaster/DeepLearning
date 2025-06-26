@@ -1,0 +1,3 @@
+OLD_EMAIL=graceleesh24@gmail.com
+CORRECT_NAME=JunhoThemaster
+CORRECT_EMAIL=seojunho22@gmail.com
